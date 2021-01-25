@@ -1,0 +1,11 @@
+C:\a\code\Mnemosyne\Mnemosyne\bin\Debug\Mnemosyne.exe.config
+C:\a\code\Mnemosyne\Mnemosyne\bin\Debug\Mnemosyne.exe
+C:\a\code\Mnemosyne\Mnemosyne\bin\Debug\Mnemosyne.pdb
+C:\a\code\Mnemosyne\Mnemosyne\obj\Debug\Mnemosyne.csprojAssemblyReference.cache
+C:\a\code\Mnemosyne\Mnemosyne\obj\Debug\Mnemosyne.Form1.resources
+C:\a\code\Mnemosyne\Mnemosyne\obj\Debug\help_about.Help_Form.resources
+C:\a\code\Mnemosyne\Mnemosyne\obj\Debug\Mnemosyne.Properties.Resources.resources
+C:\a\code\Mnemosyne\Mnemosyne\obj\Debug\Mnemosyne.csproj.GenerateResource.cache
+C:\a\code\Mnemosyne\Mnemosyne\obj\Debug\Mnemosyne.csproj.CoreCompileInputs.cache
+C:\a\code\Mnemosyne\Mnemosyne\obj\Debug\Mnemosyne.exe
+C:\a\code\Mnemosyne\Mnemosyne\obj\Debug\Mnemosyne.pdb
